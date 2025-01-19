@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="336d32c5-6f4b-4a8f-b637-9fea310958e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/AboutUsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/AboutUsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/ContactUsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/ContactUsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/SearchView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/SearchView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/AboutUsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/AboutUsView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/ContactUsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/ContactUsView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/SearchView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/SearchView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/codenameone/simulator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/codenameone/simulator.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/compliance-check.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/compliance-check.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,19 +60,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.Run in Simulator.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.buyahomeapp [install,--projects...].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mandyroskelley/Desktop/BuyahomeColo/buyahomeapp&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Run in Simulator.executor": "Run",
+    "Maven.buyahomeapp [install,--projects...].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mandyroskelley/Desktop/BuyahomeColo/buyahomeapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/common/resources" />
@@ -75,7 +89,32 @@
       <recent name="$PROJECT_DIR$/common/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.Run in Simulator">
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="simulator" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="Android Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -650,31 +689,6 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map>
-                <entry key="simulator" value="true" />
-              </map>
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
     <configuration name="iOS Debug Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -765,23 +779,6 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Maven.Android Build" />
-      <item itemvalue="Maven.iOS Debug Build" />
-      <item itemvalue="Maven.iOS Release Build" />
-      <item itemvalue="Maven.Javascript Build" />
-      <item itemvalue="Maven.Mac Desktop Build" />
-      <item itemvalue="Maven.Windows Desktop Build" />
-      <item itemvalue="Maven.Windows Device Build (UWP)" />
-      <item itemvalue="Maven.Cross-platform (JavaSE) Desktop App" />
-      <item itemvalue="Maven.Xcode iOS Project" />
-      <item itemvalue="Maven.Gradle Android Project" />
-      <item itemvalue="Maven.Generate Native Interfaces" />
-      <item itemvalue="Maven.Codename One Settings" />
-      <item itemvalue="Maven.Update Codename One" />
-      <item itemvalue="Maven.Run in Simulator" />
-      <item itemvalue="Maven.Run as Desktop App" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -794,7 +791,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613589489573</updated>
+      <workItem from="1737158092003" duration="622000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
