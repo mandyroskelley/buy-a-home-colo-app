@@ -1,10 +1,10 @@
 # Buy A Home Colo 🏡  
 
-**Buy A Home Colo** is a JM & Associates real estate app built using **CodeName One** and **Java**, designed to help users find homes in Colorado. With an intuitive interface, property search capabilities, and direct contact options, home buying has never been easier.  
+**Buy A Home Colo** is a **work-in-progress** JM & Associates real estate app built using **CodeName One** and **Java**, designed to help users find homes in Colorado. With an intuitive interface, property search capabilities, and direct contact options, home buying has never been easier.  
 
-## 🚀 Features  
+## 🚀 Planned Features  
 
-✅ **Home Search** – Browse real estate listings by price, location, and property type.
+✅ **Home Search** – Browse real estate listings by price, location, and property type. +
 ✅ **Contact Our Agents** – Easily connect with the real estate professionals at JM & Associates.  
 
 ## 📸 Screenshots  
