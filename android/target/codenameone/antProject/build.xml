@@ -7,7 +7,7 @@ This the Ant build script used by the CN1BuildMojo for sending to the build serv
 <project name="SampleProjectTemplate" default="default" basedir="." xmlns:j2seproject1="http://www.netbeans.org/ns/j2se-project/1">
     <description>Builds, tests, and runs the project SampleProjectTemplate.</description>
 
-    <property file="${codenameone_settings.properties}"/>
+    <property file="codenameone_settings.properties"/>
     <property name="automated" value="false" />
     <taskdef name="codeNameOne" classname="com.codename1.build.client.CodeNameOneBuildTask" classpath="${CodeNameOneBuildClient.jar}"/>
 
