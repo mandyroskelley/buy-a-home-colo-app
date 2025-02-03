@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="336d32c5-6f4b-4a8f-b637-9fea310958e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/AboutUsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/AboutUsView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/ContactUsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/ContactUsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyahomeapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/target/codenameone/antProject/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/target/codenameone/antProject/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/buyahomeapp-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/codenameone_settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/codenameone_settings.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/SearchView.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/buyahomeapp/SearchView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT-tests.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/buyahomeapp-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/AboutUsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/AboutUsView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/ContactUsView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/ContactUsView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/Jerry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/Mandy.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/SearchView.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/example/buyahomeapp/SearchView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/target/codenameone/simulator.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/codenameone/simulator.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/compliance-check.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/compliance-check.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/compliance-check.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/test-classes/com/example/buyahomeapp/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/test-classes/com/example/buyahomeapp/MyFirstTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,18 +49,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenRunner">
-    <option name="delegateBuildToMaven" value="true" />
     <option name="mavenProperties">
       <map>
         <entry key="codename1.platform" value="javase" />
@@ -50,36 +72,51 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="45" />
+    <option name="width" value="1400" />
+    <option name="height" value="835" />
+  </component>
   <component name="ProjectId" id="1occntywqhF2GI6rzQO8tgiLMHt" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Run in Simulator.executor": "Run",
-    "Maven.buyahomeapp [install,--projects...].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mandyroskelley/Desktop/BuyahomeColo/buyahomeapp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/common/resources" />
@@ -89,38 +126,13 @@
       <recent name="$PROJECT_DIR$/common/src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="pomFileName" />
-            <option name="profilesMap">
-              <map>
-                <entry key="simulator" value="true" />
-              </map>
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Maven.iOS Debug Build">
     <configuration name="Android Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -165,7 +177,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -206,7 +218,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -252,7 +264,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -293,7 +305,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -338,7 +350,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -383,7 +395,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -428,7 +440,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -473,7 +485,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -518,7 +530,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -559,7 +571,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -604,7 +616,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -649,7 +661,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -689,12 +701,37 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="simulator" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="iOS Debug Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -739,7 +776,7 @@
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings">
           <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="true" />
+            <option name="delegateBuildToMaven" value="false" />
             <option name="environmentProperties">
               <map />
             </option>
@@ -779,6 +816,31 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Maven.Android Build" />
+      <item itemvalue="Maven.Javascript Build" />
+      <item itemvalue="Maven.Mac Desktop Build" />
+      <item itemvalue="Maven.Windows Desktop Build" />
+      <item itemvalue="Maven.Windows Device Build (UWP)" />
+      <item itemvalue="Maven.iOS Debug Build" />
+      <item itemvalue="Maven.iOS Release Build" />
+      <item itemvalue="Maven.Cross-platform (JavaSE) Desktop App" />
+      <item itemvalue="Maven.Gradle Android Project" />
+      <item itemvalue="Maven.Xcode iOS Project" />
+      <item itemvalue="Maven.Codename One Settings" />
+      <item itemvalue="Maven.Generate Native Interfaces" />
+      <item itemvalue="Maven.Update Codename One" />
+      <item itemvalue="Maven.Run as Desktop App" />
+      <item itemvalue="Maven.Run in Simulator" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -792,10 +854,142 @@
       <option name="presentableId" value="Default" />
       <updated>1613589489573</updated>
       <workItem from="1737158092003" duration="622000" />
+      <workItem from="1737664306560" duration="313000" />
+      <workItem from="1737664625968" duration="25000" />
+      <workItem from="1737665412474" duration="273000" />
+      <workItem from="1737667148457" duration="328000" />
+      <workItem from="1737667483073" duration="2566000" />
+      <workItem from="1737671057567" duration="980000" />
+      <workItem from="1737672882028" duration="972000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="273000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="45" width="1400" height="835" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>buyahomeapp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.codenameone:codenameone-core:7.0.167</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
